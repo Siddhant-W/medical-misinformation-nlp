@@ -1,5 +1,4 @@
-#medical-misinformation-nlp
-#Comparative analysis of NLP models for healthcare misinformation detection
+
 # Medical Misinformation Detection using NLP
 
 ## Project Overview
